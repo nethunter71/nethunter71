@@ -127,3 +127,9 @@
        width: 100%;
      }  
 
+
+     @media (max-width: 400px){
+      #slide{
+        width: 100%;
+      }
+     }
