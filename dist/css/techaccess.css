@@ -90,13 +90,13 @@
       }
 
       30% {
-        background: url(elements/slide3.jpg);
+        background: url('elements/slide3.jpg');
         background-repeat: no-repeat;
         background-size: contain;
       }
 
       40% {
-        background: url(elements/slide4.jpg);
+        background: url('elements/slide4.jpg');
         background-repeat: no-repeat;
         background-size: contain;
         
